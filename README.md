@@ -1,0 +1,4 @@
+Overview of the Powerball Lottery Simulation
+This program is a C++ implementation of a Powerball lottery simulation. Players select five unique numbers between 1 and 69, and the program generates five random, unique numbers within the same range. The objective is to match as many numbers as possible to win prizes, including a grand jackpot that starts at $10 million and increases by $2 million for every unsuccessful game. The program tracks game statistics, including total games played, numbers matched, total winnings, and the final jackpot value.
+
+The project employs object-oriented programming principles, with separate functions to handle number generation, match validation, results reporting, and overall game statistics. This ensures modularity, readability, and maintainability of the code.
